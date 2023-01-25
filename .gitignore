@@ -1,3 +1,5 @@
 /banco
 .vscode/
 connection.php
+/lib/vendor
+/lib/composer.lock

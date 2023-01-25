@@ -6,7 +6,7 @@ De preferência que seja UTF-8.
 
 Sequencia para aplicação funcionar:
 
-1 - Executar script dentro da pasta "banco/, banco de dados MySQL";
+1 - Executar script dentro da pasta "sql/, banco de dados MySQL";
 
 2 - Pelo terminal, acessar a pasta "/lib" e executar o comando "composer install"
 

@@ -1,0 +1,18 @@
+.bg-purple {
+  background-color: #0d6efd;
+}
+
+.icon-acoes {
+  text-decoration: none;
+}
+
+.icon-acoes img {
+  width: 25px;
+  height: 25px;
+  margin: 0 3px 0 3px;
+}
+
+.btn-logout {
+  text-decoration: none;
+  color: #FFFFFF;
+}
